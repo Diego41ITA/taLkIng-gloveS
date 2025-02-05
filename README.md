@@ -46,6 +46,25 @@ Plays pre-recorded audio corresponding to the recognized gesture
 
 ---
 
+## 📂 Repository Structure  
+```
+├── Check_sensori  
+│   ├── I2c_scanner.ino  
+│   └── Test_sensori_nuovo.ino  
+├── Codice   
+│   ├── Arduino.ino
+│   └── Arduino1010.ino  
+└── Presentazione_BabyYodini.pdf
+```
+
+In the folder **Check_sensori** there are some scripts that checks if all the wiring have been done correctly.
+
+In the folder **Codice** there are the two scripts for the two respective Arduino board.
+
+The file **Presentazione_BabyYodini** is the pdf version of a dynamic presentation we did at the hackathon where we built our project.
+
+---
+
 ## 🛠️ Installation & Usage
 
 ### Prerequisites:

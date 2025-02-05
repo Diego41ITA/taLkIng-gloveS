@@ -48,7 +48,7 @@ Plays pre-recorded audio corresponding to the recognized gesture
 
 ---
 
-## 📂 Repository Structure  
+## 📂 taLkIng gloveS folder  
 ```
 ├── Check_sensori  
 │   ├── I2c_scanner.ino  

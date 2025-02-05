@@ -1,6 +1,8 @@
 # 🧤 taLkIg-gloveS: Smart Glove for Italian Sign Language Recognition (LIS) 
 This project involves the development of an Arduino-based smart glove designed to recognize gestures in Italian Sign Language (LIS) and "speak" the mimicked word through a speaker.
 
+![taLkIg-gloveS](images/taLkIng_gloveS_component.jpg)
+
 ---
 
 ## 🚀 Project Overview
